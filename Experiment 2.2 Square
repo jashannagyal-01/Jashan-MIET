@@ -2,7 +2,7 @@
  int main()
  {
      int s,a,p;
-     printf("Enter side of square ");
+     printf("Enter side of square:");
      scanf("%d",&s);
      a=s*s;     
      p=4*s;
